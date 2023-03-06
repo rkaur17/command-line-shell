@@ -1,3 +1,3 @@
-# Project 2: Command Line Shell
+Command Line Shell
 
 
